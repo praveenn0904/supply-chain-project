@@ -1,0 +1,9 @@
+product,perish_days,delay_days,risk
+Tomato,7,1,Low
+Tomato,7,4,High
+Apple,30,2,Low
+Apple,30,8,Medium
+Potato,20,3,Low
+Potato,20,10,High
+Banana,5,2,Medium
+Banana,5,5,High
