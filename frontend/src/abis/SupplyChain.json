@@ -1,0 +1,18 @@
+{
+  "abi": [
+    {
+      "inputs": [
+        { "internalType": "string", "name": "_vegetable", "type": "string" },
+        { "internalType": "string", "name": "_fromState", "type": "string" },
+        { "internalType": "string", "name": "_toState", "type": "string" },
+        { "internalType": "uint256", "name": "_delayDays", "type": "uint256" },
+        { "internalType": "uint256", "name": "_perishDays", "type": "uint256" },
+        { "internalType": "string", "name": "_risk", "type": "string" }
+      ],
+      "name": "storePrediction",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ]
+}
