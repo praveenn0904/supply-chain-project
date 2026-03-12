@@ -1,0 +1,32 @@
+from_state,from_district,to_state,to_district,distance,vegetable,delay_days,perish_days,risk
+Tamil Nadu,Chennai,Tamil Nadu,Coimbatore,medium,Tomato,3,8,Medium
+Tamil Nadu,Chennai,Tamil Nadu,Madurai,long,Potato,6,20,Low
+Tamil Nadu,Salem,Tamil Nadu,Erode,short,Onion,1,25,Low
+Tamil Nadu,Trichy,Tamil Nadu,Thanjavur,short,Carrot,2,10,Low
+Tamil Nadu,Coimbatore,Kerala,Palakkad,short,Tomato,2,7,Low
+Tamil Nadu,Coimbatore,Kerala,Ernakulam,medium,Potato,4,20,Low
+Tamil Nadu,Madurai,Kerala,Thiruvananthapuram,long,Tomato,6,7,High
+Tamil Nadu,Tirunelveli,Kerala,Thiruvananthapuram,medium,Carrot,3,10,Medium
+Tamil Nadu,Erode,Kerala,Kozhikode,long,Onion,6,25,Medium
+Tamil Nadu,Salem,Kerala,Palakkad,medium,Tomato,4,7,Medium
+Kerala,Palakkad,Tamil Nadu,Coimbatore,short,Tomato,2,7,Low
+Kerala,Ernakulam,Tamil Nadu,Coimbatore,medium,Potato,4,20,Low
+Kerala,Kozhikode,Tamil Nadu,Salem,long,Onion,6,25,Medium
+Kerala,Thiruvananthapuram,Tamil Nadu,Madurai,long,Tomato,7,7,High
+Kerala,Kollam,Tamil Nadu,Tirunelveli,medium,Carrot,3,10,Medium
+Kerala,Palakkad,Kerala,Ernakulam,short,Tomato,1,7,Low
+Kerala,Kozhikode,Kerala,Malappuram,short,Onion,1,25,Low
+Kerala,Thrissur,Kerala,Ernakulam,short,Potato,2,20,Low
+Kerala,Ernakulam,Kerala,Thiruvananthapuram,medium,Carrot,4,10,Medium
+Kerala,Kannur,Kerala,Kozhikode,short,Tomato,2,7,Low
+Tamil Nadu,Chennai,Kerala,Kochi,long,Tomato,7,7,High
+Tamil Nadu,Madurai,Kerala,Kollam,long,Onion,6,25,Medium
+Tamil Nadu,Coimbatore,Kerala,Thrissur,short,Carrot,2,10,Low
+Tamil Nadu,Tirunelveli,Kerala,Kollam,medium,Tomato,4,7,Medium
+Kerala,Palakkad,Tamil Nadu,Erode,short,Potato,2,20,Low
+Kerala,Kochi,Tamil Nadu,Salem,medium,Onion,4,25,Low
+Kerala,Kozhikode,Tamil Nadu,Coimbatore,long,Tomato,6,7,High
+Kerala,Thiruvananthapuram,Tamil Nadu,Tirunelveli,medium,Carrot,3,10,Medium
+Kerala,Kollam,Tamil Nadu,Madurai,long,Potato,6,20,Low
+Kerala,Thrissur,Tamil Nadu,Coimbatore,short,Tomato,2,7,Low
+Tamil Nadu, Dharmapuri,kerala,Thrissur,long,Tomato,2,7,Medium
