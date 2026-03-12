@@ -1,0 +1,16 @@
+[
+  {
+    "inputs": [
+      { "internalType": "string", "name": "_harvestDate", "type": "string" },
+      { "internalType": "uint256", "name": "_perishDays", "type": "uint256" },
+      { "internalType": "uint256", "name": "_delayDays", "type": "uint256" },
+      { "internalType": "string", "name": "_perishDate", "type": "string" },
+      { "internalType": "string", "name": "_delayDate", "type": "string" },
+      { "internalType": "string", "name": "_risk", "type": "string" }
+    ],
+    "name": "storeRecord",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]

@@ -1,0 +1,9 @@
+from_state,to_state,distance,vegetable,delay_days,perish_days,risk
+Tamil Nadu,Tamil Nadu,short,Tomato,1,8,Low
+Tamil Nadu,Tamil Nadu,medium,Potato,3,6,Medium
+Tamil Nadu,Kerala,long,Tomato,7,3,High
+Kerala,Tamil Nadu,long,Onion,6,7,High
+Kerala,Kerala,short,Carrot,1,9,Low
+Kerala,Tamil Nadu,long,Carrot,6,5,High
+Tamil Nadu,Tamil Nadu,medium,Onion,4,8,Medium
+Kerala,Kerala,medium,Tomato,3,6,Medium
