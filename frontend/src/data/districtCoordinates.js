@@ -1,0 +1,62 @@
+const districtCoordinates = {
+
+  // Tamil Nadu Districts
+  Ariyalur: { lat: 11.1398, lon: 79.0756 },
+  Chengalpattu: { lat: 12.6841, lon: 79.9836 },
+  Chennai: { lat: 13.0827, lon: 80.2707 },
+  Coimbatore: { lat: 11.0168, lon: 76.9558 },
+  Cuddalore: { lat: 11.7447, lon: 79.7680 },
+  Dharmapuri: { lat: 12.1277, lon: 78.1579 },
+  Dindigul: { lat: 10.3673, lon: 77.9803 },
+  Erode: { lat: 11.3410, lon: 77.7172 },
+  Kallakurichi: { lat: 11.7401, lon: 78.9590 },
+  Kanchipuram: { lat: 12.8342, lon: 79.7036 },
+  Kanniyakumari: { lat: 8.0883, lon: 77.5385 },
+  Karur: { lat: 10.9601, lon: 78.0766 },
+  Krishnagiri: { lat: 12.5186, lon: 78.2137 },
+  Madurai: { lat: 9.9252, lon: 78.1198 },
+  Mayiladuthurai: { lat: 11.1035, lon: 79.6550 },
+  Nagapattinam: { lat: 10.7656, lon: 79.8428 },
+  Namakkal: { lat: 11.2194, lon: 78.1674 },
+  Nilgiris: { lat: 11.4064, lon: 76.6932 },
+  Perambalur: { lat: 11.2333, lon: 78.8833 },
+  Pudukkottai: { lat: 10.3797, lon: 78.8208 },
+  Ramanathapuram: { lat: 9.3716, lon: 78.8308 },
+  Ranipet: { lat: 12.9273, lon: 79.3333 },
+  Salem: { lat: 11.6643, lon: 78.1460 },
+  Sivaganga: { lat: 9.8470, lon: 78.4836 },
+  Tenkasi: { lat: 8.9590, lon: 77.3152 },
+  Thanjavur: { lat: 10.7870, lon: 79.1378 },
+  Theni: { lat: 10.0104, lon: 77.4768 },
+  Thoothukudi: { lat: 8.7642, lon: 78.1348 },
+  Tiruchirappalli: { lat: 10.7905, lon: 78.7047 },
+  Tirunelveli: { lat: 8.7139, lon: 77.7567 },
+  Tirupathur: { lat: 12.4950, lon: 78.5670 },
+  Tiruppur: { lat: 11.1085, lon: 77.3411 },
+  Tiruvallur: { lat: 13.1439, lon: 79.9089 },
+  Tiruvannamalai: { lat: 12.2253, lon: 79.0747 },
+  Tiruvarur: { lat: 10.7720, lon: 79.6368 },
+  Vellore: { lat: 12.9165, lon: 79.1325 },
+  Viluppuram: { lat: 11.9401, lon: 79.4861 },
+  Virudhunagar: { lat: 9.5680, lon: 77.9624 },
+
+  // Kerala Districts
+  Alappuzha: { lat: 9.4981, lon: 76.3388 },
+  Ernakulam: { lat: 9.9816, lon: 76.2999 },
+  Idukki: { lat: 9.8490, lon: 76.9720 },
+  Kannur: { lat: 11.8745, lon: 75.3704 },
+  Kasaragod: { lat: 12.4996, lon: 74.9869 },
+  Kollam: { lat: 8.8932, lon: 76.6141 },
+  Kottayam: { lat: 9.5916, lon: 76.5222 },
+  Kozhikode: { lat: 11.2588, lon: 75.7804 },
+  Malappuram: { lat: 11.0510, lon: 76.0711 },
+  Palakkad: { lat: 10.7867, lon: 76.6548 },
+  Pathanamthitta: { lat: 9.2648, lon: 76.7870 },
+  Thiruvananthapuram: { lat: 8.5241, lon: 76.9366 },
+  Thrissur: { lat: 10.5276, lon: 76.2144 },
+  Wayanad: { lat: 11.6854, lon: 76.1320 }
+
+}
+
+export default districtCoordinates
+
